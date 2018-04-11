@@ -1,8 +1,8 @@
 {
-  "name": "insight-ui-dash",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Dash network and build your own services with it.",
+  "name": "insight-ui-divi",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Divi network and build your own services with it.",
   "version": "0.4.3",
-  "repository": "git://github.com/dashpay/insight-ui-dash.git",
+  "repository": "git://github.com/divicoin/insight-ui-divi.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,9 +26,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashpay/insight-ui-dash/issues"
+    "url": "https://github.com/divicoin/insight-ui-divi/issues"
   },
-  "homepage": "https://github.com/dashpay/insight-ui-dash",
+  "homepage": "https://github.com/divicoin/insight-ui-divi",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -38,9 +38,8 @@
     "bitcore-dash",
     "front-end"
   ],
-  "bitcoreNode": "bitcore-node-dash",
-  "dependencies": {
-  },
+  "bitcoreNode": "bitcore-node-divi",
+  "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",
     "grunt": "~0.4.2",
