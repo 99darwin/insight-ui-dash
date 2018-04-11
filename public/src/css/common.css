@@ -6,14 +6,14 @@
 html,
 body {
   color: #373D42;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   height: 100%;
   /* The html and body elements cannot have any padding or margin. */
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #373D42;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak],
@@ -116,14 +116,14 @@ margin-left: 0;
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #373D42;}
 
 .navbar-default {
-  background-color: #1d71b8;
+  background-color: #4A4A4A;
   margin: 0;
   border: 0;
 }
 
 .navbar-default .navbar-nav>li>a {
   color: #cfe3f4;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -150,7 +150,7 @@ margin-left: 0;
 }
 
 .insight {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 40px;
   font-style: italic;
   font-weight: 700;
@@ -203,14 +203,14 @@ margin-left: 0;
 
 #search::-webkit-input-placeholder {
   color: #CFE3F4;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: italic;
   font-weight: 100;
 }
 
 #search::-moz-placeholder {
   color: #CFE3F4;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 100;
 }
 
